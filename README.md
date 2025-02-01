@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to modifying the `innerHTML` property.  Improperly appending to `innerHTML` can lead to unexpected behavior and potential cross-site scripting (XSS) vulnerabilities if the appended content is not properly sanitized.  The bug and its solution are provided in separate HTML files.
